@@ -1,5 +1,6 @@
 # Website-
 <a href="task"><image src="https://github.com/williamwitcombe/Website-/blob/main/Github%20homepage%20screenshot.PNG?raw=true" title="the task" width=950>
+I made the backgroung and constant video on loop to make it more entertaining to watch when being on the homepage. I also added a under tone of blue to set a nice mood with the colours. 
 <a href="task"><image src="https://github.com/williamwitcombe/Website-/blob/main/Github%20page%201%20screenshot.PNG?raw=true" title="the task" width=950>
 <a href="task"><image src="https://github.com/williamwitcombe/Website-/blob/main/Github%20page%202%20screenshot.PNG?raw=true" title="the task" width=950>
 <a href="task"><image src="https://github.com/williamwitcombe/Website-/blob/main/Github%20page%202%20part%202%20screenshot.PNG?raw=true" title="the task" width=950>
